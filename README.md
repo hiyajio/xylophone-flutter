@@ -1,4 +1,4 @@
-# Xylophone
+# Xylophone - Flutter
 
 A music app that plays Xylophone sounds.
 
