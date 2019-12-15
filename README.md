@@ -2,7 +2,9 @@
 
 A music app that plays Xylophone sounds.
 
-![Finished App](https://user-images.githubusercontent.com/50670255/69649310-d96a6e80-103a-11ea-9f42-fa4c4899ad85.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/50670255/69649310-d96a6e80-103a-11ea-9f42-fa4c4899ad85.png" alt="Xylophone"/>
+</p>
 
 ## What I learned
 
